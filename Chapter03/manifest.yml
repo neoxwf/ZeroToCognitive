@@ -4,7 +4,7 @@ applications:
   instances: 1
   domain: w3ibm.mybluemix.net
   name: Z2C-neoxwf-C03
-  host: Z2C-neoxwf
+  host: Z2C-neoxwf-C03
   disk_quota: 1024M
   services:
     - Speech to Text-5n
