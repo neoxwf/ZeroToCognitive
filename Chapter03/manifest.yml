@@ -3,7 +3,7 @@ applications:
   memory: 128M
   instances: 1
   domain: w3ibm.mybluemix.net
-  name: Z2C-neoxwf-app
+  name: Z2C-neoxwf-C03
   host: Z2C-neoxwf
   disk_quota: 1024M
   services:
