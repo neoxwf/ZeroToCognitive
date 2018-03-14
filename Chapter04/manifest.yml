@@ -3,9 +3,9 @@ applications:
   memory: 128M
   instances: 1
   domain: w3ibm.mybluemix.net
-  name: Z2C-neoxwf-app
+  name: Z2C-neoxwf-C04
   host: Z2C-neoxwf
   disk_quota: 1024M
   services:
-    - Text to Speech-d0
-    - Speech to Text-neoxwf
+    - Text to Speech-j2
+    - Speech to Text-5n
