@@ -2,9 +2,9 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: w3ibm.z2c-c04.mybluemix.net
-  name: Z2C-neoxwf-C04
+  domain: mybluemix.net
+  name: Z2C-C04
   host: Z2C-neoxwf-C04
   disk_quota: 1024M
   services:
-    - Text to Speech-j2
+    - Text to Speech-uq
