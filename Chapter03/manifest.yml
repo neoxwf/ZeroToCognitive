@@ -3,7 +3,7 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: Z2C-neoxwf-C03
+  name: Z2C-C03
   host: Z2C-neoxwf-C03
   disk_quota: 1024M
   services:
