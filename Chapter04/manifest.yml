@@ -7,4 +7,5 @@ applications:
   host: Z2C-neoxwf-C04
   disk_quota: 1024M
   services:
+    - Speech to Text-cc
     - Text to Speech-uq
