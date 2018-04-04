@@ -31,7 +31,7 @@ var myCert = path.join(path.dirname(require.main.filename),"cert","cert.pem");
 var myKeyFile = fs.readFileSync(myKey);
 var myCertFile = fs.readFileSync(myCert);
 
-var serverURLb = "z2c-chapter7-sso.mybluemix.net";
+var serverURLb = "z2c-neoxwf-chapter7-sso.mybluemix.net";
 var serverURL = "http://" + serverURLb;
 var serverURLs = "https://" + serverURLb;
 var partnerIDURL = serverURLs+":443/metadata";
